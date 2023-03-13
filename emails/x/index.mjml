@@ -1,0 +1,5 @@
+<mjml>
+  <mj-body>
+  <mj-include path="../../../etc/passwd" type="html" />
+</mj-body>
+</mjml>
